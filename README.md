@@ -1,2 +1,2 @@
-# geolocation2
-geolocation code with sonarcloud
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
